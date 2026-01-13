@@ -1,36 +1,4 @@
-// Get the current date
-const now = new Date().toISOString();
-
-// GitHub username
-//const parsedBody = JSON.parse($json["body"] || "{}");
-const username = $input.first().json.login
-
-// GitHub stats and project links
-const githubStatsUrl = `https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=radical`;
-const streakStatsUrl = `https://github-readme-streak-stats.herokuapp.com/?user=${username}&theme=radical`;
-const topLanguagesUrl = `https://github-readme-stats.vercel.app/api/top-langs/?username=${username}&layout=compact&theme=radical`;
-
-// Project details
-const projects = [
-  {
-    name: "Automated Web Scraper",
-    description: "Built a web scraper using Selenium and Python to automate data collection.",
-    repoUrl: "link-to-repo"
-  },
-  {
-    name: "Machine Learning Model for Predictive Analysis",
-    description: "Developed a predictive model using Scikit-Learn and TensorFlow.",
-    repoUrl: "link-to-repo"
-  },
-  {
-    name: "AI Chatbot",
-    description: "Created a chatbot using NLP and PyTorch.",
-    repoUrl: "link-to-repo"
-  }
-];
-
-// Generate the README content
-const readmeContent = `# Hi there 👋, I'm ${username}
+# Hi there 👋, I'm StevinReny
 
 ### 🌟 Aspiring IT Enthusiast | B.Tech Computer Science Graduate
 ### 🤖 Passionate about Automation, AI, and Machine Learning
@@ -67,44 +35,44 @@ const readmeContent = `# Hi there 👋, I'm ${username}
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](${githubStatsUrl})
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=StevinReny&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](${streakStatsUrl})
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StevinReny&theme=radical)
 
 ---
 
 ## 📈 Top Languages
-![Top Languages](${topLanguagesUrl})
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StevinReny&layout=compact&theme=radical)
 
 ---
 
 ## 🚀 Projects
-${projects.map(project => `
-### ${projects.indexOf(project) + 1}. [${project.name}](${project.repoUrl})
-- ${project.description}
-`).join("\n")}
+
+### 1. [Automated Web Scraper](link-to-repo)
+- Built a web scraper using Selenium and Python to automate data collection.
+
+
+### 2. [Machine Learning Model for Predictive Analysis](link-to-repo)
+- Developed a predictive model using Scikit-Learn and TensorFlow.
+
+
+### 3. [AI Chatbot](link-to-repo)
+- Created a chatbot using NLP and PyTorch.
+
 
 ---
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/${username})
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/${username})
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/StevinReny)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/StevinReny)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 ---
 
 ## 👀 Visitor Counter
-![Visitor Count](https://komarev.com/ghpvc/?username=${username}&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=StevinReny&color=blueviolet)
 
 ---
-`;
-
-// Return the new content as JSON
-return [{
-  json: {
-    content: readmeContent
-  }
-}];
