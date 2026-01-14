@@ -1,1 +1,89 @@
-// Get the current date const now = new Date().toISOString();  // GitHub username //const parsedBody = JSON.parse($json["body"] || "{}"); const username = $input.first().json.login  // GitHub stats and project links const githubStatsUrl = `https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=radical`; const streakStatsUrl = `https://github-readme-streak-stats.herokuapp.com/?user=${username}&theme=radical`; const topLanguagesUrl = `https://github-readme-stats.vercel.app/api/top-langs/?username=${username}&layout=compact&theme=radical`;  // Project details const projects = [   {     name: "Automated Web Scraper",     description: "Built a web scraper using Selenium and Python to automate data collection.",     repoUrl: "link-to-repo"   },   {     name: "Machine Learning Model for Predictive Analysis",     description: "Developed a predictive model using Scikit-Learn and TensorFlow.",     repoUrl: "link-to-repo"   },   {     name: "AI Chatbot",     description: "Created a chatbot using NLP and PyTorch.",     repoUrl: "link-to-repo"   } ];  // Generate the README content const readmeContent = `# Hi there 👋, I'm ${username}  ### 🌟 Aspiring IT Enthusiast | B.Tech Computer Science Graduate ### 🤖 Passionate about Automation, AI, and Machine Learning  ---  ## 📌 About Me - 🎓 **B.Tech in Computer Science** graduate. - 🤖 Enthusiastic about **automation, AI, and machine learning**. - 💡 Always eager to learn and explore new technologies. - 🌐 Open to collaborations and innovative projects.  ---  ## 🛠️ Tech Stack ### Languages ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  ### AI/ML ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  ### Automation ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  ### Tools ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  ---  ## 📊 GitHub Stats ![Your GitHub stats](${githubStatsUrl})  ---  ## 🔥 Streak Stats ![GitHub Streak](${streakStatsUrl})  ---  ## 📈 Top Languages ![Top Languages](${topLanguagesUrl})  ---  ## 🚀 Projects ${projects.map(project => ` ### ${projects.indexOf(project) + 1}. [${project.name}](${project.repoUrl}) - ${project.description} `).join("\n")}  ---  ## 🌐 Let's Connect [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/${username}) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/${username}) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)  ---  ## 👀 Visitor Counter ![Visitor Count](https://komarev.com/ghpvc/?username=${username}&color=blueviolet)  --- `;  // Return the new content as JSON return [{   json: {     content: readmeContent   } }];
+# Hi there 👋, I'm [StevinReny](https://github.com/StevinReny)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StevinReny&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StevinReny&layout=compact&langs_count=8&theme=radical)
+
+---
+
+## **About Me**
+![Tech GIF](https://media.giphy.com/media/26xB5GZsX8yZ3qj9W/giphy.gif)  
+I'm **Stevin Reny**, a tech enthusiast and B.Tech graduate in Computer Science. With 3+ years of experience in software development, I have contributed to over 5k commits across 10+ open-source projects, and I am passionate about building scalable, maintainable solutions that solve real-world problems. I love exploring new technologies, mentoring junior developers, and staying updated with the latest trends in AI, cloud computing, and full-stack development.
+
+---
+
+### **🔧 Technologies & Tools**
+- **Skills:** JavaScript, Node.js, Python, C++
+- **Tools:** VS Code, Git, Docker, GitHub Actions
+- **Programming Languages:** JavaScript, Python, C++
+
+---
+
+### **🚀 Projects**
+
+#### **Project 1: [Assessment](https://github.com/StevinReny/Assessment)**
+A platform to create and manage assessments for educational institutions.  
+The backend is built with Node.js and Express, providing a RESTful API.  
+The frontend uses React and Material-UI for a responsive UI.
+
+#### **Project 2: [Dynamic-form](https://github.com/StevinReny/Dynamic-form)**
+A website where a user can create forms as per his need.  
+It leverages React Hook Form for efficient form handling and validation.  
+The data is stored in Firebase Firestore for real-time updates.
+
+#### **Project 3: [Film-Management](https://github.com/StevinReny/Film-Management)**
+A platform where directors can assign work to actors and crew to his films.  
+Built with Django REST Framework to handle complex relational data.  
+The admin panel uses Django Admin for easy content management.
+
+#### **Project 4: [Hotel-Management](https://github.com/StevinReny/Hotel-Management)**
+A system to manage hotel reservations, room inventory, and customer data.  
+The backend uses Spring Boot with Hibernate for ORM.  
+The frontend is crafted with Angular and Bootstrap for a clean interface.
+
+---
+
+### **🏆 GitHub Stats**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StevinReny&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=StevinReny&label=Profile%20views&color=blueviolet&style=flat)
+
+---
+
+### **📊 Repository Stats**
+| Stats               | Info                                                                                     |
+|---------------------|------------------------------------------------------------------------------------------|
+| **Profile Views**   | ![Profile Views](https://komarev.com/ghpvc/?username=StevinReny&label=Profile%20views&color=0e75b6&style=flat) |
+| **Stars**           | ![GitHub Stars](https://img.shields.io/github/stars/StevinReny?style=social) |
+| **Followers**       | ![GitHub Followers](https://img.shields.io/github/followers/StevinReny?style=social) |
+
+---
+
+### **🌍 Connect With Me**
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StevinReny)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/StevinReny)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/StevinReny)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:StevinReny@gmail.com)
+
+---
+
+### **📫 How to Reach Me**
+📧 Email: [StevinReny@gmail.com](mailto:StevinReny@gmail.com)
+
+---
+
+### **✍️ Random Dev Quote**
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### **💬 Visitors Count**
+![Visitor Count](https://profile-counter.glitch.me/StevinReny/count.svg)
+
+---
+
+### **🎨 My GitHub Contributions**
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=StevinReny&theme=radical)
+
+---
+
+### **🏆 GitHub Trophies**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=StevinReny&theme=onedark&no-frame=true&row=1&column=7)
