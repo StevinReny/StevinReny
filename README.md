@@ -1,1 +1,90 @@
-// Get the current date const now = new Date().toISOString();  // GitHub username //const parsedBody = JSON.parse($json["body"] || "{}"); const username = $input.first().json.login  // GitHub stats and project links const githubStatsUrl = `https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=radical`; const streakStatsUrl = `https://github-readme-streak-stats.herokuapp.com/?user=${username}&theme=radical`; const topLanguagesUrl = `https://github-readme-stats.vercel.app/api/top-langs/?username=${username}&layout=compact&theme=radical`;  // Project details const projects = [   {     name: "Automated Web Scraper",     description: "Built a web scraper using Selenium and Python to automate data collection.",     repoUrl: "link-to-repo"   },   {     name: "Machine Learning Model for Predictive Analysis",     description: "Developed a predictive model using Scikit-Learn and TensorFlow.",     repoUrl: "link-to-repo"   },   {     name: "AI Chatbot",     description: "Created a chatbot using NLP and PyTorch.",     repoUrl: "link-to-repo"   } ];  // Generate the README content const readmeContent = `# Hi there 👋, I'm ${username}  ### 🌟 Aspiring IT Enthusiast | B.Tech Computer Science Graduate ### 🤖 Passionate about Automation, AI, and Machine Learning  ---  ## 📌 About Me - 🎓 **B.Tech in Computer Science** graduate. - 🤖 Enthusiastic about **automation, AI, and machine learning**. - 💡 Always eager to learn and explore new technologies. - 🌐 Open to collaborations and innovative projects.  ---  ## 🛠️ Tech Stack ### Languages ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  ### AI/ML ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  ### Automation ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  ### Tools ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  ---  ## 📊 GitHub Stats ![Your GitHub stats](${githubStatsUrl})  ---  ## 🔥 Streak Stats ![GitHub Streak](${streakStatsUrl})  ---  ## 📈 Top Languages ![Top Languages](${topLanguagesUrl})  ---  ## 🚀 Projects ${projects.map(project => ` ### ${projects.indexOf(project) + 1}. [${project.name}](${project.repoUrl}) - ${project.description} `).join("\n")}  ---  ## 🌐 Let's Connect [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/${username}) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/${username}) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)  ---  ## 👀 Visitor Counter ![Visitor Count](https://komarev.com/ghpvc/?username=${username}&color=blueviolet)  --- `;  // Return the new content as JSON return [{   json: {     content: readmeContent   } }];
+# Hi there 👋, I'm [StevinReny](https://github.com/StevinReny)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StevinReny&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StevinReny&layout=compact&langs_count=8&theme=radical)
+
+---
+
+## **About Me**
+![StevinReny GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVsampkejZjeDV2Y2pkYXY1YnI5ZWp5MmY1OGprb3Vzcmc1bmxweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+
+I'm **Stevin Reny**, a tech enthusiast and B.Tech graduate in Computer Science. Passionate about scalable software solutions, I thrive on turning ideas into reality using cutting-edge technologies. When I'm not coding, I explore open-source projects, contribute to communities, and stay updated on the latest tech trends.
+
+---
+
+### **🔧 Technologies & Tools**
+- **Skills:** JavaScript, Node.js, Python
+- **Tools:** VS Code, Git, Docker
+- **Programming Languages:** JavaScript, Python, C++
+
+---
+
+### **🚀 Projects**
+
+#### **Project 1: [Assessment](https://github.com/StevinReny/Assessment)**
+A web-based assessment platform that allows educators to create, distribute, and grade quizzes efficiently. It features real-time analytics and adaptive questioning to personalize learning. Built with Node.js, Express, and MongoDB.  
+**Tech Stack:** Node.js, Express, MongoDB  
+**GitHub:** [Assessment](https://github.com/StevinReny/Assessment.git)
+
+#### **Project 2: [Dynamic-form](https://github.com/StevinReny/Dynamic-form)**
+A dynamic form builder that lets users generate custom forms without coding. It supports various input types, validation, and data export. Developed using React, Node.js, and PostgreSQL.  
+**Tech Stack:** React, Node.js, PostgreSQL  
+**GitHub:** [Dynamic-form](https://github.com/StevinReny/Dynamic-form.git)
+
+#### **Project 3: [Film-Management](https://github.com/StevinReny/Film-Management)**
+A platform for film production management where directors assign tasks to actors and crew. It includes scheduling, resource allocation, and progress tracking. Implemented with Django, DRF, and SQLite.  
+**Tech Stack:** Django, Django REST Framework, SQLite  
+**GitHub:** [Film-Management](https://github.com/StevinReny/Film-Management.git)
+
+#### **Project 4: [Hotel-Management](https://github.com/StevinReny/Hotel-Management)**
+A hotel management system for handling bookings, room inventory, and staff scheduling. Features include revenue reporting and customer management. Built with Laravel and MySQL.  
+**Tech Stack:** Laravel, MySQL  
+**GitHub:** [Hotel-Management](https://github.com/StevinReny/Hotel-Management.git)
+
+---
+
+### **🏆 GitHub Stats**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StevinReny&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=StevinReny&label=Profile%20views&color=blueviolet&style=flat)
+
+---
+
+### **📊 Repository Stats**
+| Stats               | Info                                                                                     |
+|---------------------|------------------------------------------------------------------------------------------|
+| **Profile Views**   | ![Profile Views](https://komarev.com/ghpvc/?username=StevinReny&label=Profile%20views&color=0e75b6&style=flat) |
+| **Stars**           | ![GitHub Stars](https://img.shields.io/github/stars/StevinReny?style=social) |
+| **Followers**       | ![GitHub Followers](https://img.shields.io/github/followers/StevinReny?style=social) |
+
+---
+
+### **🌍 Connect With Me**
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StevinReny)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/StevinReny)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/StevinReny)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:StevinReny@gmail.com)
+
+---
+
+### **📫 How to Reach Me**
+📧 Email: [stevinreny@gmail.com](mailto:stevinreny@gmail.com)
+
+---
+
+### **✍️ Random Dev Quote**
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### **💬 Visitors Count**
+![Visitor Count](https://profile-counter.glitch.me/StevinReny/count.svg)
+
+---
+
+### **🎨 My GitHub Contributions**
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=StevinReny&theme=radical)
+
+---
+
+### **🏆 GitHub Trophies**
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=StevinReny&theme=onedark&no-frame=true&row=1&column=7)
