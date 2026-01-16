@@ -1,26 +1,24 @@
-# Stevin Reny
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=2000&height=70&duration=8000&lines=BTech%20student%20with%20passion%20for%20coding" />
 </h1>
 
 <h3 align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl0aGt6bm5jd3IyaHBxc3B0NnVoOGRncmIwNm16cWwwbXMzazVnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9pYjhyc2p4cWF1eWltYWVlNWI1MjM5dnk1MWY2d2Zud2k0OTRlZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odTTszSU3M3pb5I9eW/giphy.gif" width="500">
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-🌟 I am a dedicated BTech student with a strong passion for coding and a keen interest in technology. I am constantly seeking opportunities to learn and grow in the field of software development.
+🌟 I am a dedicated BTech student with a strong passion for coding and a keen interest in technology. I am constantly exploring new tools and frameworks to enhance my skills and contribute to innovative projects.
 
-💻 My journey in coding began with a fascination for problem-solving and the thrill of creating efficient and innovative solutions. I enjoy exploring new technologies and frameworks to enhance my skill set.
+💻 I have a solid foundation in various programming languages and technologies, including Java, Python, and JavaScript. I am particularly interested in web development and have experience with frameworks like React and Node.js.
 
-🔭 I am currently working on various projects that challenge me to think creatively and apply my technical knowledge. I am always open to collaborating on open-source projects, hackathons, and innovative tech ideas.
+🔭 I am currently working on several projects that involve building scalable and efficient web applications. I am also actively involved in open-source contributions and hackathons to stay updated with the latest trends and technologies.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
-📫 How to reach me: [StevinReny](mailto:stevinreny@example.com)
+📫 How to reach me: [rithunathtpc2024@gmail.com](mailto:rithunathtpc2024@gmail.com)
 
 ---
 
@@ -33,9 +31,9 @@
 ## 🚀 My Projects
 
 ### 🌟 [Assessment](https://github.com/StevinReny/Assessment)
-- A comprehensive assessment tool for evaluating coding skills.
-- Built with React and TypeScript for a dynamic user interface.
-- Integrated with a backend to handle user data and assessments.
+- A web application for managing assessments and evaluations.
+- Built with React and TypeScript for a dynamic and responsive user interface.
+- Utilizes a backend server to handle data storage and retrieval.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -47,9 +45,9 @@
 ---
 
 ### 🌟 [Dynamic-form](https://github.com/StevinReny/Dynamic-form)
-- A website where users can create custom forms tailored to their needs.
-- Developed using React and TypeScript for a responsive and interactive experience.
-- Features dynamic form generation and real-time validation.
+- A website where users can create forms dynamically based on their requirements.
+- Developed using React and TypeScript to ensure a smooth and interactive form creation experience.
+- Features a backend to store and manage form data efficiently.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -61,9 +59,9 @@
 ---
 
 ### 🌟 [Film-Management](https://github.com/StevinReny/Film-Management)
-- A platform for directors to manage their film projects by assigning tasks to actors and crew.
-- Utilizes GitHub for version control and Markdown for documentation.
-- Streamlines the film production process with efficient task management.
+- A platform for film directors to manage their projects by assigning tasks to actors and crew.
+- Developed using GitHub and Markdown for documentation and project management.
+- Features a user-friendly interface for easy task assignment and tracking.
 
 **Tech Stack:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
@@ -102,16 +100,16 @@
   <a href="https://github.com/StevinReny" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/stevinreny/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/stevinreny" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/stevinreny/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:stevinreny@example.com" target="_blank">
+  <a href="mailto:StevinReny" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
