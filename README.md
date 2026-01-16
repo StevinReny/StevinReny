@@ -1,88 +1,133 @@
-# Hi there 👋, I'm [StevinReny](https://github.com/StevinReny)
+# Stevin Reny
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StevinReny&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StevinReny&layout=compact&langs_count=8&theme=radical)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=2000&height=70&duration=8000&lines=BTech%20student%20with%20passion%20for%20coding" />
+</h1>
 
----
-
-## **About Me**
-I'm **Stevin Reny**, a **tech enthusiast and B.Tech graduate in Computer Science**. Passionate about building scalable software solutions and exploring the latest tech trends. When I'm not coding, I contribute to open‑source projects, collaborate with communities, and stay curious about emerging technologies.  
-Skills: JavaScript, Python, C++, TypeScript, Node.js, Docker, Git, VS Code.  
-
-![Gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dnaWkzZGJ5aWgwMHUydWxlN2FzaHc1ZDJiczN2dDZscXFzODYwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif)
+<h3 align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl0aGt6bm5jd3IyaHBxc3B0NnVoOGRncmIwNm16cWwwbXMzazVnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</h3>
 
 ---
 
-### **🔧 Technologies & Tools**
-- **Skills:** JavaScript,Node.js,Python
-- **Tools:** VS Code,Git,Docker
-- **Programming Languages:** JavaScript,Python,C++
+## 👨‍💻 About Me
+
+🌟 I am a dedicated BTech student with a strong passion for coding and a keen interest in technology. I am constantly seeking opportunities to learn and grow in the field of software development.
+
+💻 My journey in coding began with a fascination for problem-solving and the thrill of creating efficient and innovative solutions. I enjoy exploring new technologies and frameworks to enhance my skill set.
+
+🔭 I am currently working on various projects that challenge me to think creatively and apply my technical knowledge. I am always open to collaborating on open-source projects, hackathons, and innovative tech ideas.
+
+🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
+
+📫 How to reach me: [StevinReny](mailto:stevinreny@example.com)
+
+---
+
+## 🛠️ Technologies & Tools
+
+![Skills](https://skillicons.dev/icons?i=react,typescript,nodejs,express,mongodb,python,javascript,java,postgres,html,css,git,github,docker)
 
 ---
 
 ## 🚀 My Projects
 
 ### 🌟 [Assessment](https://github.com/StevinReny/Assessment)
-> A comprehensive assessment tool for evaluating coding skills and knowledge. Provides automated tests, scoring, and detailed feedback. Designed to help learners track progress and identify areas for improvement.  
+- A comprehensive assessment tool for evaluating coding skills.
+- Built with React and TypeScript for a dynamic user interface.
+- Integrated with a backend to handle user data and assessments.
 
-![Tech Stack](https://img.shields.io/badge/Tech-Unknown-blue)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/StevinReny/Assessment.git)
-[![Stars](https://img.shields.io/github/stars/yourusername/Assessment?style=social)](https://github.com/StevinReny/Assessment)
-[![Forks](https://img.shields.io/github/forks/yourusername/Assessment?style=social)](https://github.com/StevinReny/Assessment)
+**Tech Stack:**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+
+[![GitHub Stars](https://img.shields.io/github/stars/StevinReny/Assessment?style=social)](https://github.com/StevinReny/Assessment)
+[![GitHub Forks](https://img.shields.io/github/forks/StevinReny/Assessment?style=social)](https://github.com/StevinReny/Assessment)
+
+---
 
 ### 🌟 [Dynamic-form](https://github.com/StevinReny/Dynamic-form)
-> An interactive web application that allows users to create custom forms on‑the‑fly. Supports various input types, validation, and data submission to APIs. Built with modern TypeScript and React for a seamless user experience.  
+- A website where users can create custom forms tailored to their needs.
+- Developed using React and TypeScript for a responsive and interactive experience.
+- Features dynamic form generation and real-time validation.
 
-![Tech Stack](https://img.shields.io/badge/Tech-TypeScript-green)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/StevinReny/Dynamic-form.git)
-[![Stars](https://img.shields.io/github/stars/yourusername/Dynamic-form?style=social)](https://github.com/StevinReny/Dynamic-form)
-[![Forks](https://img.shields.io/github/forks/yourusername/Dynamic-form?style=social)](https://github.com/StevinReny/Dynamic-form)
+**Tech Stack:**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+
+[![GitHub Stars](https://img.shields.io/github/stars/StevinReny/Dynamic-form?style=social)](https://github.com/StevinReny/Dynamic-form)
+[![GitHub Forks](https://img.shields.io/github/forks/StevinReny/Dynamic-form?style=social)](https://github.com/StevinReny/Dynamic-form)
+
+---
 
 ### 🌟 [Film-Management](https://github.com/StevinReny/Film-Management)
-> A platform for film production teams to manage projects, assign roles, and track progress. Includes features for scheduling, resource allocation, and collaboration. Developed using TypeScript and Node.js for robust backend services.  
+- A platform for directors to manage their film projects by assigning tasks to actors and crew.
+- Utilizes GitHub for version control and Markdown for documentation.
+- Streamlines the film production process with efficient task management.
 
-![Tech Stack](https://img.shields.io/badge/Tech-TypeScript-orange)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/StevinReny/Film-Management.git)
-[![Stars](https://img.shields.io/github/stars/yourusername/Film-Management?style=social)](https://github.com/StevinReny/Film-Management)
-[![Forks](https://img.shields.io/github/forks/yourusername/Film-Management?style=social)](https://github.com/StevinReny/Film-Management)
+**Tech Stack:**
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
 
-### 🌟 [Hotel-Management](https://github.com/StevinReny/Hotel-Management)
-> A comprehensive hotel booking and management system handling reservations, room inventory, and guest services. Features dynamic pricing, availability calendars, and reporting dashboards. Implemented with TypeScript, Express, and PostgreSQL.  
-
-![Tech Stack](https://img.shields.io/badge/Tech-TypeScript-lightblue)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/StevinReny/Hotel-Management.git)
-[![Stars](https://img.shields.io/github/stars/yourusername/Hotel-Management?style=social)](https://github.com/StevinReny/Hotel-Management)
-[![Forks](https://img.shields.io/github/forks/yourusername/Hotel-Management?style=social)](https://github.com/StevinReny/Hotel-Management)
+[![GitHub Stars](https://img.shields.io/github/stars/StevinReny/Film-Management?style=social)](https://github.com/StevinReny/Film-Management)
+[![GitHub Forks](https://img.shields.io/github/forks/StevinReny/Film-Management?style=social)](https://github.com/StevinReny/Film-Management)
 
 ---
 
-### **🏆 GitHub Stats**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StevinReny&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=StevinReny&label=Profile%20views&color=blueviolet&style=flat)
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=StevinReny&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=StevinReny&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-### **📊 Repository Stats**
-| Stats               | Info                                                                                     |
-|---------------------|------------------------------------------------------------------------------------------|
-| **Profile Views**   | ![Profile Views](https://komarev.com/ghpvc/?username=StevinReny&label=Profile%20views&color=0e75b6&style=flat) |
-| **Stars**           | ![GitHub Stars](https://img.shields.io/github/stars/StevinReny?style=social) |
-| **Followers**       | ![GitHub Followers](https://img.shields.io/github/followers/StevinReny?style=social) |
+## 📊 Repository Stats
+
+| Stats | Info |
+|-------|------|
+| **Profile Views** | <img src="https://komarev.com/ghpvc/?username=StevinReny&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> |
+| **Stars** | <img src="https://img.shields.io/github/stars/StevinReny?style=social" alt="GitHub Stars" /> |
+| **Followers** | <img src="https://img.shields.io/github/followers/StevinReny?style=social" alt="GitHub Followers" /> |
 
 ---
 
-### **🌍 Connect With Me**
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StevinReny)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/StevinReny)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/StevinReny)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:StevinReny@gmail.com)
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/StevinReny" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/stevinreny/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/stevinreny" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/stevinreny/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:stevinreny@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
-### **📫 How to Reach Me**
-📧 Email: [stevinreny@gmail.com](mailto:stevinreny@gmail.com)
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 
 ---
 
-### **✍️ Random Dev Quote**
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  Thanks for visiting my profile!
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+</p>
