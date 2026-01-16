@@ -10,15 +10,17 @@
 
 ## 👨‍💻 About Me
 
-🌟 I am a dedicated BTech student with a strong passion for coding and a keen interest in software development. My journey in the tech world has been driven by a curiosity to solve complex problems and create innovative solutions. I enjoy collaborating on open-source projects, participating in hackathons, and exploring new technologies to enhance my skill set.
+🌟 I am a dedicated BTech student with a strong passion for coding and a keen interest in exploring new technologies.
 
-💻 I have a solid foundation in various programming languages and frameworks, and I'm always eager to learn new ones. My technical skills include proficiency in Java, Python, JavaScript, and TypeScript, along with experience in web development using React and Node.js.
+💻 My journey in the tech world has been marked by continuous learning and hands-on experience in various programming languages and frameworks.
 
-🔭 Currently, I am focusing on improving my skills in full-stack development and exploring the realms of artificial intelligence and machine learning. I am also involved in contributing to open-source projects and mentoring fellow students.
+🔭 I am always on the lookout for opportunities to collaborate on open-source projects, participate in hackathons, and contribute to innovative tech ideas.
 
 🌱 I’m open to collaborating on open-source projects, hackathons, and innovative tech ideas.
 
-📫 How to reach me: [rithunathtpc2024@gmail.com](mailto:rithunathtpc2024@gmail.com)
+📫 How to reach me: [rithunathtpc2024@gmail.com]
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rithunathtpc2024@gmail.com">
+</a>
 
 ---
 
@@ -31,9 +33,9 @@
 ## 🚀 My Projects
 
 ### 🌟 [Assessment](https://github.com/StevinReny/Assessment)
-- A web application designed to streamline the assessment process for educational institutions.
-- Built using React and TypeScript to ensure a smooth and responsive user experience.
-- Features include real-time feedback, automated grading, and detailed analytics.
+- Developed a comprehensive assessment platform using React and TypeScript.
+- Implemented robust authentication and authorization mechanisms.
+- Ensured seamless integration with backend services for data storage and retrieval.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -45,9 +47,9 @@
 ---
 
 ### 🌟 [Dynamic-form](https://github.com/StevinReny/Dynamic-form)
-- A versatile platform allowing users to create custom forms tailored to their specific needs.
-- Developed using React and TypeScript, ensuring a dynamic and interactive form-building experience.
-- Features include drag-and-drop functionality, real-time validation, and easy integration with various databases.
+- Created a dynamic form builder where users can create forms tailored to their needs.
+- Utilized React and TypeScript to ensure a responsive and interactive user experience.
+- Implemented form validation and data submission capabilities.
 
 **Tech Stack:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -59,9 +61,9 @@
 ---
 
 ### 🌟 [Film-Management](https://github.com/StevinReny/Film-Management)
-- A comprehensive platform for film production, enabling directors to efficiently manage and assign tasks to actors and crew.
-- Developed using GitHub and Markdown for documentation, ensuring clear and organized project management.
-- Features include task assignment, progress tracking, and collaborative workflows.
+- Developed a film management platform enabling directors to assign tasks to actors and crew.
+- Implemented a user-friendly interface for seamless task management.
+- Ensured data security and efficient task tracking.
 
 **Tech Stack:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
